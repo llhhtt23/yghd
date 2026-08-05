@@ -1,0 +1,15 @@
+D:\start\demo\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+D:\start\demo\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+D:\start\demo\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+D:\start\demo\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+D:\start\demo\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.sourcelink.json
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+D:\start\demo\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
