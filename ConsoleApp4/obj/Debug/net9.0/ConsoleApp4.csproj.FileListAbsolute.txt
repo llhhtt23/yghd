@@ -1,0 +1,15 @@
+D:\start\demo\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.exe
+D:\start\demo\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.deps.json
+D:\start\demo\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+D:\start\demo\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.dll
+D:\start\demo\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.pdb
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.cs
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.sourcelink.json
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.dll
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\refint\ConsoleApp4.dll
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.pdb
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+D:\start\demo\ConsoleApp4\obj\Debug\net9.0\ref\ConsoleApp4.dll
