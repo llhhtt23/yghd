@@ -1,0 +1,15 @@
+D:\start\demo\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.exe
+D:\start\demo\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.deps.json
+D:\start\demo\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.runtimeconfig.json
+D:\start\demo\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.dll
+D:\start\demo\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.pdb
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfo.cs
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.sourcelink.json
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.dll
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\refint\ConsoleApp6.dll
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.pdb
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.genruntimeconfig.cache
+D:\start\demo\ConsoleApp6\obj\Debug\net9.0\ref\ConsoleApp6.dll
