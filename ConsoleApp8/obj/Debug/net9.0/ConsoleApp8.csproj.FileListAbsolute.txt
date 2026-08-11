@@ -1,0 +1,15 @@
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfo.cs
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.sourcelink.json
+D:\start\demo\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.exe
+D:\start\demo\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.deps.json
+D:\start\demo\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.runtimeconfig.json
+D:\start\demo\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.dll
+D:\start\demo\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.pdb
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.dll
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\refint\ConsoleApp8.dll
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.pdb
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.genruntimeconfig.cache
+D:\start\demo\ConsoleApp8\obj\Debug\net9.0\ref\ConsoleApp8.dll
