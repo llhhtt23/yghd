@@ -1,0 +1,15 @@
+D:\start\demo\test.car\bin\Debug\net9.0\test.car.exe
+D:\start\demo\test.car\bin\Debug\net9.0\test.car.deps.json
+D:\start\demo\test.car\bin\Debug\net9.0\test.car.runtimeconfig.json
+D:\start\demo\test.car\bin\Debug\net9.0\test.car.dll
+D:\start\demo\test.car\bin\Debug\net9.0\test.car.pdb
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.AssemblyInfoInputs.cache
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.AssemblyInfo.cs
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.csproj.CoreCompileInputs.cache
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.sourcelink.json
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.dll
+D:\start\demo\test.car\obj\Debug\net9.0\refint\test.car.dll
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.pdb
+D:\start\demo\test.car\obj\Debug\net9.0\test.car.genruntimeconfig.cache
+D:\start\demo\test.car\obj\Debug\net9.0\ref\test.car.dll
