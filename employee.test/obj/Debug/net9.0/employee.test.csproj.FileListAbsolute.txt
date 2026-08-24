@@ -1,0 +1,15 @@
+D:\start\demo\employee.test\bin\Debug\net9.0\employee.test.exe
+D:\start\demo\employee.test\bin\Debug\net9.0\employee.test.deps.json
+D:\start\demo\employee.test\bin\Debug\net9.0\employee.test.runtimeconfig.json
+D:\start\demo\employee.test\bin\Debug\net9.0\employee.test.dll
+D:\start\demo\employee.test\bin\Debug\net9.0\employee.test.pdb
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.AssemblyInfoInputs.cache
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.AssemblyInfo.cs
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.csproj.CoreCompileInputs.cache
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.sourcelink.json
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.dll
+D:\start\demo\employee.test\obj\Debug\net9.0\refint\employee.test.dll
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.pdb
+D:\start\demo\employee.test\obj\Debug\net9.0\employee.test.genruntimeconfig.cache
+D:\start\demo\employee.test\obj\Debug\net9.0\ref\employee.test.dll
