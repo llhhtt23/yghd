@@ -1,0 +1,14 @@
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+D:\start\demo\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\start\demo\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\start\demo\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.config
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources

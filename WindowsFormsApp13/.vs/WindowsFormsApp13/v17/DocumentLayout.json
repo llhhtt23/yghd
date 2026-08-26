@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\start\\demo\\WindowsFormsApp13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|d:\\start\\demo\\windowsformsapp13\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|d:\\start\\demo\\windowsformsapp13\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|d:\\start\\demo\\windowsformsapp13\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|d:\\start\\demo\\windowsformsapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB33E5C-BB96-412D-9F46-F9BDB5CC8DD6}|WindowsFormsApp13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "D:\\start\\demo\\WindowsFormsApp13\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Form4.Designer.cs",
+              "ToolTip": "D:\\start\\demo\\WindowsFormsApp13\\Form4.Designer.cs",
+              "RelativeToolTip": "Form4.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:02:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\start\\demo\\WindowsFormsApp13\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\start\\demo\\WindowsFormsApp13\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:51:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\start\\demo\\WindowsFormsApp13\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\start\\demo\\WindowsFormsApp13\\Form4.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form4.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:44:10.88Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\start\\demo\\WindowsFormsApp13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\start\\demo\\WindowsFormsApp13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:16:34.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
