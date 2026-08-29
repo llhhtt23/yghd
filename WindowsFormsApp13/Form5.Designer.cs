@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp13
 {
-    partial class Form4
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -29,43 +29,44 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.box = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.LabelTime = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // box
+            // textBox1
             // 
-            this.box.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.box.Location = new System.Drawing.Point(262, 108);
-            this.box.Name = "box";
-            this.box.Size = new System.Drawing.Size(49, 46);
-            this.box.TabIndex = 0;
+            this.textBox1.Location = new System.Drawing.Point(56, 73);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 21);
+            this.textBox1.TabIndex = 0;
+            //this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-            // LabelTime
+            // label1
             // 
-            this.LabelTime.AutoSize = true;
-            this.LabelTime.Location = new System.Drawing.Point(166, 115);
-            this.LabelTime.Name = "LabelTime";
-            this.LabelTime.Size = new System.Drawing.Size(29, 12);
-            this.LabelTime.TabIndex = 1;
-            this.LabelTime.Text = "时间";
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.Red;
+            this.label1.Location = new System.Drawing.Point(175, 76);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(113, 12);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "已达到最大输入长度";
+            this.label1.Visible = false;
             // 
-            // Form4
+            // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.LabelTime);
-            this.Controls.Add(this.box);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form4";
-            this.Text = "Form4";
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.textBox1);
+            this.Name = "Form5";
+            this.Text = "Form5";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -73,8 +74,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Panel box;
+        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.Label LabelTime;
+        private System.Windows.Forms.Label label1;
     }
 }

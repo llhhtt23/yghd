@@ -12,3 +12,7 @@ D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.config
 D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
 D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
 D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form5.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form6.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form7.resources
+D:\start\demo\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form8.resources
