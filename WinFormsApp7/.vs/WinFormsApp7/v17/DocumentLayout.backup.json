@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\start\\demo\\WinFormsApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|d:\\start\\demo\\winformsapp7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u738B\u5E05\u7684\u4EE3\u7801\\WinFormsApp1\\Form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|d:\\start\\demo\\winformsapp7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|d:\\start\\demo\\winformsapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA00969-DA63-4719-A941-D5B45AB5149E}|WinFormsApp7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\start\\demo\\WinFormsApp7\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\start\\demo\\WinFormsApp7\\Form2.cs*",
+              "RelativeToolTip": "Form2.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:46:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\\u738B\u5E05\u7684\u4EE3\u7801\\WinFormsApp1\\Form5.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u738B\u5E05\u7684\u4EE3\u7801\\WinFormsApp1\\Form5.cs",
+              "ToolTip": "D:\\\u738B\u5E05\u7684\u4EE3\u7801\\WinFormsApp1\\Form5.cs*",
+              "RelativeToolTip": "..\\..\\..\\\u738B\u5E05\u7684\u4EE3\u7801\\WinFormsApp1\\Form5.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:07:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\start\\demo\\WinFormsApp7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\start\\demo\\WinFormsApp7\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:06:17.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\start\\demo\\WinFormsApp7\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\start\\demo\\WinFormsApp7\\Form2.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Form2.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:06:43.504Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
