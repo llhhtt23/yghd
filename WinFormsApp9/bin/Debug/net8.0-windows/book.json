@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "057f8774-0462-4083-8310-1d00a39341a7",
+    "Name": "王帅",
+    "Author": "王帅",
+    "Price": 60,
+    "BookLabel": "武侠\r\n言情",
+    "IsBorrow": false
+  },
+  {
+    "Id": "572a12a3-f4b1-4779-bd57-545886f780db",
+    "Name": "牛马",
+    "Author": "王",
+    "Price": 23,
+    "BookLabel": "言情\r\n戏剧",
+    "IsBorrow": false
+  }
+]

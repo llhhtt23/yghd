@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yy75cUQ7GvA=",
+  "success": true,
+  "projectFilePath": "D:\\start\\demo\\WinFormsApp9\\WinFormsApp9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\antdui\\2.4.7\\antdui.2.4.7.nupkg.sha512"
+  ],
+  "logs": []
+}
