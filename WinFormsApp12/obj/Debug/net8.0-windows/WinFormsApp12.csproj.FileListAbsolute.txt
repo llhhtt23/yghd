@@ -1,0 +1,17 @@
+D:\start\demo\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.exe
+D:\start\demo\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.deps.json
+D:\start\demo\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.runtimeconfig.json
+D:\start\demo\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.dll
+D:\start\demo\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.pdb
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.Form1.resources
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.GenerateResource.cache
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfoInputs.cache
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfo.cs
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.CoreCompileInputs.cache
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.sourcelink.json
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.dll
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\refint\WinFormsApp12.dll
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.pdb
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.genruntimeconfig.cache
+D:\start\demo\WinFormsApp12\obj\Debug\net8.0-windows\ref\WinFormsApp12.dll
